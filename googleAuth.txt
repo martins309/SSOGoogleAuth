@@ -1,0 +1,2 @@
+client id: 513848352300-9c58fncsh4hgavgjcknn9h86jb20jve1.apps.googleusercontent.com
+secret ting: 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
